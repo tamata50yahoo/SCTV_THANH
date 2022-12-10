@@ -124,7 +124,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTGRP:HTV
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png, 32 VTV5 MYTV
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", 32 VTV5_MYTV
 #EXTGRP:VTV
 https://wallpapermeter.tk/worldcup/vtv5mytv
 
