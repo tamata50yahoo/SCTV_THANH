@@ -104,7 +104,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 MYTV
 #EXTGRP:VTV
 https://wallpapermeter.tk/worldcup/vtvcanthomytv
 
@@ -126,7 +126,7 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png, VTV5 MYTV
 #EXTGRP:VTV
-
+https://wallpapermeter.tk/worldcup/vtv5mytv
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sport plus
 #EXTGRP:VTVcab
