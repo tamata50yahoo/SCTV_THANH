@@ -156,7 +156,7 @@ https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
 
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12
 #EXTGRP:SCTV
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://sctvonline.vn/
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv12
 
 #EXTINF:-1 tvg-id="sctv17hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17
 #EXTGRP:SCTV
