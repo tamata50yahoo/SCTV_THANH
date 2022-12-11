@@ -45,7 +45,6 @@ https://livecdn.fptplay.net/sevent/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3
 #EXTGRP:VTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", Quốc Phòng TV
@@ -113,7 +112,6 @@ https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b25000
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ
 #EXTGRP:VTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11
@@ -142,6 +140,7 @@ https://livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
+
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png", VTC9
 #EXTGRP:VTC
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
