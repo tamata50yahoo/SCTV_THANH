@@ -4,11 +4,12 @@
 #EXTGRP:SCTV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", VTVcab12
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png, VTVcab 12 - Style TV
 #EXTGRP:VTVcab
-https://livevlive.vtvcab.vn/hls/OS_STYLE_TV_HD/sc-gaFEAA/m30_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355
 
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
+#EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv18
 
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
@@ -31,28 +32,26 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTGRP:VTV
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 #EXTGRP:VTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sevent/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTGRP:VTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", Quốc Phòng TV
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 #EXTGRP:VTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1
 #EXTGRP:VTVcab
@@ -65,7 +64,7 @@ https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 #EXTGRP:HTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9
 #EXTGRP:HTV
@@ -85,7 +84,7 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", VTVcab9
 #EXTGRP:VTVcab
-https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/6c7701f5-7ea6-4168-a245-3be82065ae58
 
 #EXTINF:-1 tvg-id="sctv21hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21
 #EXTGRP:SCTV
@@ -107,9 +106,8 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 #EXTGRP:VTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11
@@ -118,25 +116,24 @@ https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", VTVcab5
 #EXTGRP:VTVcab
-https://livevlive.vtvcab.vn/hls/OS_E_CHANNEL/sc-gaFEAA/m30_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4
 
-#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2
 #EXTGRP:HTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
 #EXTGRP:HTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 #EXTGRP:VTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/${start}/${offset}", ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="vtvcab6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
+#EXTGRP:VTVcab
 https://api.vthanhtivi.pw/v1/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286
 
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png", VTC9
@@ -145,20 +142,19 @@ https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", VTVcab2 - ON Phim Việt
 #EXTGRP:VTVcab
-https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799
 
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 #EXTGRP:VTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football
 #EXTGRP:VTVcab
-https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a
 
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12
 #EXTGRP:SCTV
@@ -180,9 +176,9 @@ http://api.vthanhtivi.pw/v1/getlink/tv360_s2/163/2
 #EXTGRP:SCTV
 https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv15
 
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 #EXTGRP:Quốc Tế
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png", VTVcab17 - Yeah1 TV
 #EXTGRP:VTVcab
@@ -198,7 +194,7 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
 
 #EXTINF:-1 tvg-id="vtvcab21hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", VTVcab21 - Cartoon Kid
 #EXTGRP:VTVcab
-https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/005a05b2-14d6-4b94-9318-9e3bb78f6311
 
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8
 #EXTGRP:SCTV
@@ -220,9 +216,9 @@ https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 #EXTGRP:Quốc Tế
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 
-#EXTINF:-1 tvg-id="vtvcab10hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", VTVcab10
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", On Cinema
 #EXTGRP:VTVcab
-https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vieon2/f7aaa051-d67c-4131-a486-98699d4c9863
 
 #EXTINF:-1 tvg-id="vtc1" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
 #EXTGRP:VTC
