@@ -61,7 +61,7 @@ https://api.vthanhtivi.pw/v1/getlink/vieon/vie-giai-tri-hd
 #EXTGRP:SCTV
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
 #EXTGRP:HTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
@@ -124,7 +124,6 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
 #EXTGRP:HTV
-#EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
 
