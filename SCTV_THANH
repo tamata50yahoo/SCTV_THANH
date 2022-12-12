@@ -4,7 +4,7 @@
 #EXTGRP:SCTV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab12styletv" tvg-logo="https://pbs.twimg.com/media/Fa7aXwracAQbXoR?format=png", VTVcab12 - Style TV
+#EXTINF:-1 tvg-id="vtvcab12styletv" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", VTVcab12 - Style TV
 #EXTGRP:VTVcab
 https://api.vthanhtivi.pw/v1/getlink/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355
 
