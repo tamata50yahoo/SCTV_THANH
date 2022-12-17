@@ -207,6 +207,7 @@ https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie
 #EXTGRP:Quốc Tế
+#hqthhttp://hoaiptv.duckdns.org:8002/live/cliptv.php?id=Box-Movie-1
 #https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/boxmovie1
 #https://api.vthanhtivi.pw/v2/getlink/cliptv/822/chunklist_b5128000.m3u8
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
