@@ -179,7 +179,11 @@ http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.
 
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png", VTVcab17 - Yeah1 TV
 #EXTGRP:VTVcab
-https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab17/vtvcab17@high.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtvcab17/vtvcab17@high.m3u8
+https://api.vthanhtivi.pw/v1/getlink/vtvgo/195
+#https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 #EXTGRP:Quốc Tế
