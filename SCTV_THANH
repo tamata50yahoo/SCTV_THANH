@@ -136,8 +136,9 @@ https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
 #EXTGRP:VTC
 https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="VTVcab" tvg-id="vtvcab2hd" tvg-logo="https://img.vnmedia.xyz/logo/on-phimviet.jpg", ON Phim Việt
-https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u
+#EXTINF:0,ON Phim Việt
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
 #EXTGRP:VTV
